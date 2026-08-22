@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aya 👋
 
-<!--
-**aya-nasserr81/aya-nasserr81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+## 🌱 About Me
+I'm a Computer Science student interested in exploring different areas of technology and building my skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- Networking
+- Cloud Computing
+- Cybersecurity
+
+## 🚀 Currently Exploring
+I'm currently exploring different IT fields to find the path that suits me best.
+
+---
+
+✨ Learning step by step.
