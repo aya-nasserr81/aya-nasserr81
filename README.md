@@ -1,18 +1,42 @@
-# Hi, I'm Aya 👋
+<div align="center">
 
-🎓 Computer Science Student
+# 👋 Hi, I'm Aya!
 
-## 🌱 About Me
-I'm a Computer Science student interested in exploring different areas of technology and building my skills step by step.
+### 🎓 Computer Science Student
 
-## 🎯 Interests
-- Networking
-- Cloud Computing
-- Cybersecurity
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+the+World+of+IT;Future+Network+%7C+Cloud+%7C+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
-## 🚀 Currently Exploring
-I'm currently exploring different IT fields to find the path that suits me best.
+</div>
 
 ---
 
-✨ Learning step by step.
+## 🌱 About Me
+
+🎓 I'm a Computer Science student.  
+🔎 Currently exploring different areas of IT.  
+🌐 Interested in Networking.  
+☁️ Interested in Cloud Computing.  
+🔐 Interested in Cybersecurity.  
+
+I'm taking my first steps and building my knowledge step by step. 🚀
+
+---
+
+## 🎯 My Interests
+
+🌐 Networking  
+☁️ Cloud Computing  
+🔐 Cybersecurity
+
+---
+
+## 📚 My Learning Journey
+
+`text
+🎓 Computer Science
+        ↓
+🌐 Networking
+        ↓
+☁️ Cloud Computing
+        ↓
+🔐 Cybersecurity
