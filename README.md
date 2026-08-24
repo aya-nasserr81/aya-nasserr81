@@ -47,22 +47,3 @@
            ↓
         🚀 IMPROVE
 
----
-
-<div align="center">📊 GitHub Journey
-
-<img src="https://github-readme-stats.vercel.app/api?username=aya-nasserr81&show_icons=true&hide_border=true&theme=default&title_color=0D6EFD&icon_color=0D6EFD&text_color=333333" /><br><br>
-
-<img src="https://streak-stats.demolab.com?user=aya-nasserr81&hide_border=true&ring=0D6EFD&fire=0D6EFD&currStreakLabel=0D6EFD&sideLabels=0D6EFD&dates=555555" /></div>---
-
-<div align="center">🐍 Contribution Journey
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></div>---
-
-<div align="center">💙
-
-Learning. Exploring. Growing.
-
-One step at a time.
-
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=100&section=footer" /></div>
